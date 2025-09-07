@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learn-jenkins-app/static/css/main.fd921077.css",
+    "main.js": "/learn-jenkins-app/static/js/main.5969a900.js",
+    "static/js/787.a1dc0f1b.chunk.js": "/learn-jenkins-app/static/js/787.a1dc0f1b.chunk.js",
+    "static/media/logo.svg": "/learn-jenkins-app/static/media/logo.8c7360d016c3baff0193f89f1077c721.svg",
+    "index.html": "/learn-jenkins-app/index.html",
+    "main.fd921077.css.map": "/learn-jenkins-app/static/css/main.fd921077.css.map",
+    "main.5969a900.js.map": "/learn-jenkins-app/static/js/main.5969a900.js.map",
+    "787.a1dc0f1b.chunk.js.map": "/learn-jenkins-app/static/js/787.a1dc0f1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd921077.css",
+    "static/js/main.5969a900.js"
+  ]
+}
